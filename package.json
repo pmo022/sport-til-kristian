@@ -1,0 +1,21 @@
+{
+  "name": "sportapplikasjon",
+  "version": "1.0.0",
+  "description": "Oppkobling og bruk av sport web api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "livereload",
+    "web"
+  ],
+  "author": "Patrick, Kristian, Ragnhild",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^4.0.0"
+  }
+}
