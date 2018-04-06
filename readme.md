@@ -1,8 +1,11 @@
-# Get sassy
+# Sportsapp
 For å bruke prosjektet, gjør følgende steg:
 - Installer node.js,
 - Installer dependencies ved å skrive "npm install" i konsollen
-- Kjør gulp ved å skrive "gulp" i konsollen
+- Kjør gulp ved å skrive "gulp" i konsollen for å kompilere sass og kjøre programmet
+
+
+
 
 Om gulp kommandoen gir feilmelding, skriv
 "npm i -g gulp" i konsollen først for å gjøre verktøyet globalt tilgjengelig i konsollen
